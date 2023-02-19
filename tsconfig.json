@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ESNext",
+        "sourceMap": true,
+    },
+    "include": [ "./src/", "test.ts" ]
+}
